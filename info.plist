@@ -406,6 +406,8 @@ pipelines - show ADO pipelines</string>
 			<string>prs_with_reviewers_by_ids</string>
 		</dict>
 	</array>
+	<key>variablesdontexport</key>
+	<array/>
 	<key>version</key>
 	<string>1.0.0</string>
 	<key>webaddress</key>
